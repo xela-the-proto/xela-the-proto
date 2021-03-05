@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xela-the-proto
-- 👀 I’m interested in helpin gin coding
+- 👀 I’m interested in helping in coding
 - 🌱 I’m currently learning c++ and c
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me thegamerale97@gmail.com
