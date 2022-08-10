@@ -1,3 +1,5 @@
+THIS IS WILDLY INCORRECT DO NOT READ
+
 - 👋 Hi, I’m @xela-the-proto
 - 👀 I’m interested in helping in coding
 - 🌱 I’m currently learning c++ and java
