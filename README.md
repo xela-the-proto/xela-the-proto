@@ -1,4 +1,8 @@
-[![Xela's GitHub stats](https://github-readme-stats.vercel.app/api?username=xela-the-proto)](https://github.com/xela-the-proto/github-readme-stats)
+- Xela (or alex)
+- Politecnico di torino student
+- C# enjoyer
+- Furry
+
 
 
 <!---
